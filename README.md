@@ -24,8 +24,7 @@ pip install requests beautifulsoup4
 1. Clone este repositório para o seu ambiente local:
 
 ```bash
-git clone https://github.com/seu-usuario/web_scrapp_lbin.git
-```
+git clone https://https://github.com/MarcosPrintes001/Web_Scrap_Lbin.git
 
 2. Navegue até o diretório do projeto:
 ```bash
