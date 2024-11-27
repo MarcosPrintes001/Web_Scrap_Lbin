@@ -25,6 +25,7 @@ pip install requests beautifulsoup4
 
 ```bash
 git clone https://https://github.com/MarcosPrintes001/Web_Scrap_Lbin.git
+```
 
 2. Navegue até o diretório do projeto:
 ```bash
